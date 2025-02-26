@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yixin Bai</h1>
+<h1 align="center">Hi 👋, I'm Georgia </h1>
 <h3 align="center">A passionate computer science student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georg11a&label=Profile%20views&color=0e75b6&style=flat" alt="georg11a" /> </p>
