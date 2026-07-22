@@ -3,7 +3,7 @@
 ### A DS PhD student by day ☀️ and a night 🦉 by night
 
 PhD student at [University of Virginia](https://www.virginia.edu);
-Researching **human-AI interaction**;
+Researching **Human-AI interaction**;
 On a mission to **create something unique and fun** ✨
 
 - ⚙️ I use daily: `.py`, `.js`, `.tsx`, `.fig`, `.ai`, `.tex`
