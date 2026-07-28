@@ -1,6 +1,6 @@
 # Hii there!
 
-### A DS PhD student by day ☀️ and a night 🦉 by night
+### A researcher by day ☀️ and a night 🦉 by night
 
 PhD student at [University of Virginia](https://www.virginia.edu);
 Researching **Human-AI interaction**;
