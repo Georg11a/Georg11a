@@ -10,7 +10,7 @@ On a mission to **create something unique and fun** ✨
 - 🌱 Learning: **affective computing & AI for healthcare**
 - 🎧 Fueled by: **hiphop, coffee & manifesting my next paper into existence**
 - 💬 `ping` me about **human-AI interaction, frontend, design, or grad school life**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/georgia-bai) · [Email](mailto:yixbai01@umd.edu)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/georgia-bai) · [Email](mailto:byxin@virginia.edu)
 
 &nbsp;
 
