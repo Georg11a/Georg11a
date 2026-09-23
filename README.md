@@ -13,7 +13,6 @@ On a mission to **create something unique and fun** ✨
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/georgia-bai) · [Email](mailto:byxin@virginia.edu)
 
 &nbsp;
-
 <!--START_SECTION:readme-info-->
 **I'm an Early 🐤** 
 
